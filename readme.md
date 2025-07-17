@@ -53,7 +53,7 @@ pip install opencv-python numpy tensorflow
 ### 1. Clone atau Download Projek
 
 ```sh
-git clone <repo-anda>
+git clone https://github.com/Sahlil23/person-detection.git
 cd person-detection
 ```
 

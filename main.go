@@ -13,7 +13,7 @@ import (
 )
 
 // URL Stream RTSP Anda (ganti dengan URL asli)
-const rtspURL = "rtsp://admin:admin@192.168.101.15:8554/Streaming/Channels/102" 
+const rtspURL = "rtsp://username:pw@1ip:port/Channel" // Ganti dengan URL RTSP yang sesuai
 
 // Konfigurasi WebSocket
 var upgrader = websocket.Upgrader{
